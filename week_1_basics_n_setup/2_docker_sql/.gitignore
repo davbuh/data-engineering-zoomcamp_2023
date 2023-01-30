@@ -2,5 +2,3 @@
 ny_taxi_postgres_data/
 *.csv
 *.parquet
-_hw_week1/*
-!_hw_week1/homework.md
