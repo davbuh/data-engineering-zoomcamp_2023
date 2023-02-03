@@ -18,3 +18,4 @@ serving_dir
 week_1_basics_n_setup/_hw_week1/*
 !week_1_basics_n_setup/_hw_week1/homework.md
 !week_1_basics_n_setup/_hw_week1/homework_terraform.md
+venv/
