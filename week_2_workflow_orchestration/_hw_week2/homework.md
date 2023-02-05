@@ -64,7 +64,8 @@ How many rows were processed by the script?
 - 88,605
 - 190,225
 
-
+```prefect deployment build week_2_workflow_orchestration/_hw_week2/etl_web_to_gcs.py:etl_web_to_gcs -n 'gh_etl_to_gcs' -o 'gh_etl_to_gcs' -sb github/github-de2023 -a
+```
 
 ## Question 5. Email notifications
 
